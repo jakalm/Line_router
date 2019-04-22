@@ -1,0 +1,30 @@
+<!--* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+<!--*                                                                                                                -->
+<!--*  Created on: Apr 21, 2019                                                                                      -->
+<!--*      Author: Jakob Almqvist                                                                                    -->
+<!--*                                                                                                                -->
+<!--*  Copyright (C) 2019 Jakob Almqvist. All rights reserved.                                                       -->
+<!--*                                                                                                                -->
+<!--* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+
+<ui version="4.0">
+ <class>Line_router_window</class>
+ <widget class="QMainWindow" name="MainWindow" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Line Router</string>
+  </property>
+  <widget class="QWidget" name="centralWidget" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</ui>

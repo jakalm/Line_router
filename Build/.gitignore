@@ -1,0 +1,9 @@
+# Ignore all files and folders
+*
+
+# Unignore cmake build script 
+!cmake_build.sh
+
+# Unignore this file
+!.gitignore
+
